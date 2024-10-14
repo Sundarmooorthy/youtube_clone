@@ -6,4 +6,7 @@ class AppDimens {
   static const double appVPadding16 = 16.0;
   static const double appHPadding10 = 10.0;
   static const double appHPadding16 = 16.0;
+
+  ///  mini player settings
+  static const double miniPlayerMinHeight = 60.0;
 }

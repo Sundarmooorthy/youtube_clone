@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 
 Widget Gap({
-  double height = 0,
+  double height = 10,
   double width = 0,
 }) {
   return SizedBox(
